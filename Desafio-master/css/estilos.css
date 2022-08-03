@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+a {
+    text-decoration: none;
+    
+}
+
+p{
+    color: black;
+    font-size: 205%;
+    text-align: center;
+    margin: 30px;
+}
+
+.titulo{
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    text-align: center;
+
+}
+
+
+.propiedades-titulo {
+    color: black;
+    font-size: 205%;
+    text-align: center;
+    margin: 30px;
+   
+}
+
+.propiedades-texto{
+color: black;
+font-size: 100%;
+font-style: normal;
+text-align: center;
+padding: 10px;
+margin: 10px;
+
+}
+
+.propiedades-texto1{
+    color: black;
+    font-size: 100%;
+    font-style: normal;
+    text-align: left;
+    
+    margin-left: 55px;
+    
+}
+
+.col-12{
+    justify-self: center;
+}
+.mapa{
+    margin-left: 5rem;
+}
+
+
+
+    
+   
+
+.row{
+    justify-content: center;
+    border: 2px gray solid;
+    padding: 3rem;
+       
+}
